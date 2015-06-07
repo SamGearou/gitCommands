@@ -1,0 +1,2 @@
+To add files to your current directory, the command is:
+touch filename,
