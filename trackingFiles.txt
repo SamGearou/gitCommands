@@ -1,0 +1,4 @@
+To track files the command is as follows:
+git add filename or,
+git add . (this tracks every file in the directory),
+
