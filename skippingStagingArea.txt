@@ -1,2 +1,5 @@
-Adding the -a option to the git commit command makes Git automatically stage every file that is already tracked before doing the commit, lettign you skip the git add part. It looks like this:
+Adding the -a option to the git commit command makes 
+Git automatically stage every file that is already tracked 
+before doing the commit, lettign you skip the git add part. 
+It looks like this:
 git commit -a -m "your commit message",
